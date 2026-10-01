@@ -1,0 +1,16 @@
+# User Stories - Lemonade Stand Game
+
+1. Weather & Daily Conditions
+   As a player, I want to see the daily weather forecast and cost per glass so that I can anticipate customer demand and plan my inventory for the day.
+
+2. Daily Business Decisions
+   As a player, I want to decide how many glasses of lemonade to make, how many advertising signs to purchase, and what price to charge per glass so that I can optimize sales and balance risk.
+
+3. Budget & Asset Constraints
+   As a player, I want the game to prevent me from ordering more glasses or signs than my current cash assets allow so that I do not go into unpermitted debt.
+
+4. Daily Financial Results
+   As a player, I want to see a daily financial summary showing glasses sold, total income, total expenses, profit/loss, and updated assets so that I know how well my stand performed.
+
+5. Day Progression & Game Flow
+   As a player, I want the game to advance to the next day with updated finances and randomized/changing conditions until the game concludes or I run out of money.
